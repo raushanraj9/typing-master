@@ -1,0 +1,16 @@
+.footer-container
+{
+    display: flex;
+    justify-content: center;
+    background: #1d2020;
+    margin: 0;
+    z-index: 99;
+}
+.footer-link
+{
+    font-size: 26px;
+    color: aliceblue;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+}
